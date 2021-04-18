@@ -1563,8 +1563,9 @@ body #conversation-list-rows .conversation .expiration {
 }
 
 .conversation .row h4 {
-  color: #222831;
+  color: #fff;
 }
+
 .conversation.read h4 {
   color: #ffffff;
   font-weight: 400;
